@@ -1,25 +1,14 @@
 # Kinect_Unity
 Introduction to Kinect v2 in Unity
 
-#### Specifications
-* RGB 1920 x 1080
-* IR/Depth 512 x 424
-* Recommended distance - 4 ft 6 inches.
-* No motor for auto-adjust
-* 4-microphone array
-* 6 skeleton detection
-* 25 joints each
-
-![Screenshot](http://glitchbeam.blob.core.windows.net/media/2015/05/kinectskeleton-map2.png)
-
-# Download and install the SDK
-* Kinect SDK [http://www.microsoft.com/en-us/download/details.aspx?id=44561](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
+# Kinect SDK
+Download here [http://www.microsoft.com/en-us/download/details.aspx?id=44561](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
 Installs the following
-* Kinect Studio:
-  * Record and playback.  Playback can simulate a physical Kinect.
-  * Use for testing hardware features.
-* SDK Browser:  Has code samples for all hardware features.
+  * Kinect Studio:
+    * Record and playback.  Playback can simulate a physical Kinect.
+    * Use for testing hardware features.
+  * SDK Browser:  Has code samples for all hardware features.
 
 # Unity
 ##Requirements
