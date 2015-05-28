@@ -6,10 +6,10 @@ Introduction to Kinect v2 in Unity
 [http://www.microsoft.com/en-us/download/details.aspx?id=44561](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 
 ### Installs the following
-  * Kinect Studio:
-    * Record and playback.  Playback can simulate a physical Kinect.
-    * Use for testing hardware features.
-  * SDK Browser:  Has code samples for all hardware features.
+* Kinect Studio
+  * Record and playback.  Playback can simulate a physical Kinect.
+  * Use for testing hardware features.
+* SDK Browser - Has code samples for all hardware features.
 
 # Unity
 ### Requirements
