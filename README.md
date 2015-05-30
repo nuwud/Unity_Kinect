@@ -27,3 +27,6 @@ Introduction to Kinect v2 in Unity
 * Cursor - Left hand is mapped to a cursor.  Box color changes when cursor collides.
 * Player Controller - Left & Right hand mapped to player input.
 * Body Particles - ParticleSystems spawn and follow joint positions.
+
+# Questions / Issues
+[Please create an issue ticket.](https://github.com/jasonrwalters/Kinect_Unity/issues)
