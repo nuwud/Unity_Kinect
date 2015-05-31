@@ -3,6 +3,7 @@ using System.Collections;
 
 public class KinectCursor : MonoBehaviour
 {
+    public int jointId = 7;
     public float easing = 0.03f;
 
     private Transform tr;
@@ -19,11 +20,11 @@ public class KinectCursor : MonoBehaviour
     {
         if (BodySourceView.bodyTracked)
         {
-            // fetch hand positions
-            Vector3 hLeft = BodySourceView.jointObjs[7].position;
+            // fetch joint positions
+            Vector3 joint = BodySourceView.jointObjs[jointId].position;
 
             // easing towards X
-            float targetX = hLeft.x;
+            float targetX = joint.x;
             float posX = tr.position.x;
             float dx = targetX - posX;
             if (Mathf.Abs(dx) > 1)
@@ -32,7 +33,7 @@ public class KinectCursor : MonoBehaviour
             }
 
             // easing towards Y
-            float targetY = hLeft.y;
+            float targetY = joint.y;
             float posY = tr.position.y;
             float dy = targetY - posY;
             if (Mathf.Abs(dy) > 1)
@@ -40,7 +41,7 @@ public class KinectCursor : MonoBehaviour
                 posY += dy * easing;
             }
 
-            // update cursor position with new 
+            // update cursor position
             tr.position = new Vector3(posX, posY, tr.position.z);
         }
     }
