@@ -24,9 +24,11 @@ Introduction to Kinect v2 in Unity
 * Unity Tutorials [http://unity3d.com/learn/tutorials/modules](http://unity3d.com/learn/tutorials/modules)
 
 ### Examples
-* Cursor - Left hand is mapped to a cursor.  Box color changes when cursor collides.
-* Player Controller - Left & Right hand mapped to player input.
+* Cursor - A joint is mapped to a cursor.  Box color changes when cursor collides.
 * Body Particles - ParticleSystems spawn and follow joint positions.
+* Player Controller - Left & Right hand mapped to player input.  This technique is used on the following games:
+  * [Hypernaut](http://glitchbeam.com/games/hypernaut/)
+  * [Horizon](http://glitchbeam.com/games/horizon/)
 
 # Questions / Issues
 [Please create an issue ticket.](https://github.com/jasonrwalters/Kinect_Unity/issues)
