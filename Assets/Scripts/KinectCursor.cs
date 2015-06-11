@@ -1,9 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Windows.Kinect;
 
 public class KinectCursor : MonoBehaviour
 {
-    public int jointId = 7;
+    public JointType jointId = JointType.HandLeft;
     public float easing = 0.03f;
 
     private Transform tr;
@@ -21,7 +22,7 @@ public class KinectCursor : MonoBehaviour
         if (BodySourceView.bodyTracked)
         {
             // fetch joint positions
-            Vector3 joint = BodySourceView.jointObjs[jointId].position;
+            Vector3 joint = BodySourceView.jointObjs[(int)jointId].position;
 
             // easing towards X
             float targetX = joint.x;
