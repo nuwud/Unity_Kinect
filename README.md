@@ -1,5 +1,5 @@
-# Kinect_Unity
-Introduction to Kinect v2 in Unity
+# Unity_Kinect
+Kinect v2 example projects for Unity.
 
 # Kinect SDK
 ### Download
@@ -30,5 +30,5 @@ Introduction to Kinect v2 in Unity
   * [Hypernaut](http://glitchbeam.com/games/hypernaut/)
   * [Horizon](http://glitchbeam.com/games/horizon/)
 
-# Questions / Issues
-[Please create an issue ticket.](https://github.com/jasonrwalters/Kinect_Unity/issues)
+# Support
+Please create an issue ticket for questions and issues.  Thank you.
