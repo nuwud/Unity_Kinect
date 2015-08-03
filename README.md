@@ -10,17 +10,16 @@ The purpose of this repo is to provide a few examples of Unity + Kinect to help 
 # Getting Started
 1.  Download and install the [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 2.  Download and unzip the [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
-
-3.  Install the Kinect SDK and then create a new project in Unity 5.
+3.  Create a new project in Unity 5.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect00.png)
 
-4.  Drag folder 'KinectView' into your root Unity Asset folder.
+4.  Double-click the file 'Kinect.2.0.1410.19000.unitypackage'.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect01.png)
 
-5.  Double-click the file 'Kinect.2.0.1410.19000.unitypackage' and import all of the items from the Kinect package.
+5.  Import all of the items into your newly created Unity project.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect02.png)
 
-6.  Expand the 'KinectView' folder and launch 'MainScene'.  Press play to view RGB, IR, Joints, and Depth Mesh.
+6.  Drag folder 'KinectView', located in the unzipped Kinect v2 Plugin folder, into your root Unity Asset folder.  Expand the 'KinectView' folder and launch 'MainScene'.  Press play to view RGB, IR, Joints, and Depth Mesh.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect03.png)
 
 
