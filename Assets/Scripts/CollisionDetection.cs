@@ -4,11 +4,11 @@ using System.Collections;
 public class CollisionDetection : MonoBehaviour
 {
     private Renderer rend;
-    private bool hit = false;
 
 	// Use this for initialization
 	void Start ()
     {
+        // reference components
         rend = GetComponent<Renderer>();
 	}
 	
