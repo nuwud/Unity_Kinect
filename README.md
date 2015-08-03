@@ -13,7 +13,7 @@
 * [Visual Studio Community](http://visualstudio.com)
 
 # Getting Started
-This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to [Examples Included In This Repo](#Examples-Included-In-This-Repo) below.
+This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to [Examples Included In This Repo](#examples-included-in-this-repo) below.
 
 1.  Download and install the [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 2.  Download and unzip the [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
