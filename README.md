@@ -10,7 +10,7 @@
 * [Unity](http://unity3d.com)
 * [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 * [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
-* [Visual Studio 2013](http://visualstudio.com)
+* [Visual Studio Community](http://visualstudio.com)
 
 # Getting Started
 This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to [Examples Included In This Repo](#Examples-Included-In-This-Repo) below.
@@ -45,7 +45,7 @@ The Kinect v2 SDK installs the following software:
 
 # Additional Tutorials
 * Kinect v2 Joint Map [http://glitchbeam.com/kinect-v2-joint-map/](http://glitchbeam.com/kinect-v2-joint-map/)
-* Unity & Visual Studio 2013 [http://glitchbeam.com/using-visual-studio-2013-for-main-unity-ide/](http://glitchbeam.com/using-visual-studio-2013-for-main-unity-ide/)
+* Unity & Visual Studio [http://glitchbeam.com/using-visual-studio-2013-for-main-unity-ide/](http://glitchbeam.com/using-visual-studio-2013-for-main-unity-ide/)
 * Unity Tutorials [http://unity3d.com/learn/tutorials/modules](http://unity3d.com/learn/tutorials/modules)
 
 # Support
