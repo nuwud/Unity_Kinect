@@ -8,6 +8,7 @@ The purpose of this repo is to provide a few examples of Unity + Kinect to help 
 * [Visual Studio 2013](http://visualstudio.com)
 
 # Getting Started
+This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to 'Examples included in this repo' below.
 1.  Download and install the [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 2.  Download and unzip the [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
 3.  Create a new project in Unity 5.
@@ -21,7 +22,6 @@ The purpose of this repo is to provide a few examples of Unity + Kinect to help 
 
 6.  Drag folder 'KinectView', located in the unzipped Kinect v2 Plugin folder, into your root Unity Asset folder.  Expand the 'KinectView' folder and launch 'MainScene'.  Press play to view RGB, IR, Joints, and Depth Mesh.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect03.png)
-
 
 # Examples included in this repo
 * Cursor - A cursor is mapped to a hand joint.  Box color changes when cursor collides.
