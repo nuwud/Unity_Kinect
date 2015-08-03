@@ -1,6 +1,3 @@
-# Unity_Kinect
-The purpose of this repo is to provide a few examples of Unity + Kinect to help you get up and running quickly.
-
 # Requirements
 * [Unity](http://unity3d.com)
 * [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
