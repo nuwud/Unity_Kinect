@@ -1,3 +1,11 @@
+# Table of Contents
+- [Requirements](#Requirements) - What you need.
+- [Getting Started](#Getting-Started) - Start here if you are new to Kinect in Unity.
+- [Examples Included In This Repo](#Examples-Included-In-This-Repo) - Go here to review the examples in this repo.
+- [SDK Tools](#SDK-Tools) - What is installed with the Kinect SDK.
+- [Additional Tutorials](#Additional-Tutorials) - See this if you want to expand your knowledge.
+- [Support](#Support) - Have questions?  Run into an issue?  Go here.
+
 # Requirements
 * [Unity](http://unity3d.com)
 * [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
@@ -5,7 +13,7 @@
 * [Visual Studio 2013](http://visualstudio.com)
 
 # Getting Started
-This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to 'Examples included in this repo' below.
+This section will show you the basics of setting up your environment and running the example project from the Kinect v2 Unity plugin.  If you are already familiar with this process, you can proceed to [Examples Included In This Repo](#Examples-Included-In-This-Repo) below.
 
 1.  Download and install the [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 2.  Download and unzip the [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
@@ -21,14 +29,14 @@ This section will show you the basics of setting up your environment and running
 6.  Drag folder 'KinectView', located in the unzipped Kinect v2 Plugin folder, into your root Unity Asset folder.  Expand the 'KinectView' folder and launch 'MainScene'.  Press play to view RGB, IR, Joints, and Depth Mesh.
 ![Screenshot](https://glitchbeam.blob.core.windows.net/media/2015/05/kinect03.png)
 
-# Examples included in this repo
+# Examples Included In This Repo
 * Cursor - A cursor is mapped to a hand joint.  Box color changes when cursor collides.
 * Body Particles - ParticleSystems spawn and follow joint positions.
 * Player Controller - Player horizontal input is mapped to left & right hands.  This technique is used on the following games:
   * [Hypernaut](http://glitchbeam.com/games/hypernaut/)
   * [Horizon](http://glitchbeam.com/games/horizon/)
 
-# SDK tools
+# SDK Tools
 The Kinect v2 SDK installs the following software:
 * Kinect Studio
   * Record and playback.  Playback can simulate a physical Kinect.
