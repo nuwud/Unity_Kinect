@@ -1,10 +1,10 @@
 # Table of Contents
-- [Requirements](#Requirements) - What you need.
-- [Getting Started](#Getting-Started) - Start here if you are new to Kinect in Unity.
-- [Examples Included In This Repo](#Examples-Included-In-This-Repo) - Go here to review the examples in this repo.
-- [SDK Tools](#SDK-Tools) - What is installed with the Kinect SDK.
-- [Additional Tutorials](#Additional-Tutorials) - See this if you want to expand your knowledge.
-- [Support](#Support) - Have questions?  Run into an issue?  Go here.
+- [Requirements](#requirements) - What you need.
+- [Getting Started](#getting-started) - Start here if you are new to Kinect in Unity.
+- [Examples Included In This Repo](#examples-included-in-this-repo) - Go here to review the examples in this repo.
+- [SDK Tools](#sdk-tools) - What is installed with the Kinect SDK.
+- [Additional Tutorials](#additional-tutorials) - See this if you want to expand your knowledge.
+- [Support](#support) - Have questions?  Run into an issue?  Go here.
 
 # Requirements
 * [Unity](http://unity3d.com)
