@@ -38,6 +38,7 @@ This section will show you the basics of setting up your environment and running
 
 # SDK Tools
 The Kinect v2 SDK installs the following software:
+
 1.  Kinect Studio
   * Record and playback.  Playback can simulate a physical Kinect.
   * Use for testing hardware features.
